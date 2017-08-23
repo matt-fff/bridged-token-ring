@@ -1,5 +1,5 @@
 # bridged-token-ring
-Simulator for bridged IBM token ring networks.
+Written in college for a networking course. Simulator for bridged IBM token ring networks.
 
 # 1 Compilation
 One can either build in Visual Studio or use the provided MSBuild files with the Visual Studio developer command prompt. Ring, RingVariant, and Bridge are all compiled individually. To use the developer command prompt:
